@@ -1,0 +1,7 @@
+{
+  "id": "token-group-extension",
+  "name": "Token Group Extension",
+  "icon": "icon.png",
+  "url": "index.html",
+  "version": "1.0.0"
+}
